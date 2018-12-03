@@ -138,7 +138,7 @@ if (is_post_request()) {
     $id = $_POST['benefit_id'];
     $card_set = find_cards_by_benefit_id($id);
 } else {
-    redirect_to(url_for('recommend-card-by-benefits.php'));
+    redirect_to(url_for('a_team/a_team1/carDBee/by-benefits.php'));
 }
 
 ?>

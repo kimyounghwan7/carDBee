@@ -139,7 +139,7 @@ if (is_post_request()) {
     $id = $_POST['franchise_id'];
     $card_set = find_cards_by_franchise_id($id);
 } else {
-    redirect_to(url_for('by-franchise.php'));
+    redirect_to(url_for('a_team/a_team1/carDBee/by-franchise.php'));
 }
 
 ?>
