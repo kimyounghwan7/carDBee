@@ -14,8 +14,8 @@ define("PROJECT_PATH", dirname(PRIVATE_PATH));
 define("PUBLIC_PATH", PROJECT_PATH . '/public');
 define("SHARED_PATH", PRIVATE_PATH . '/shared');
 define("HOME_PATH", '/index.php');
-define("WHAT_WE_DO_PATH", '/what-we-do.html');
-define("TEAM_MEMBERS_PATH", '/team-members.html');
+define("WHAT_WE_DO_PATH", '/what-we-do.php');
+define("TEAM_MEMBERS_PATH", '/team-members.php');
 define("CHOOSE_A_CARD_PATH", '/choose-a-card.php');
 
 require_once('functions.php');              /* basic functions */

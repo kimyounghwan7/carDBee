@@ -57,8 +57,8 @@
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
 					<li><a href="index.php">Home</a></li>
-					<li><a href="what-we-do.html">What we do</a></li>
-					<li><a href="team-members.html">Team members</a></li>
+					<li><a href="what-we-do.php">What we do</a></li>
+					<li><a href="team-members.php">Team members</a></li>
 					<li class="colorlib-active"><a href="choose-a-card.php">Choose a card</a></li>
 					<li><a href="/staff/index.php">Admin</a></li>
 				</ul>
